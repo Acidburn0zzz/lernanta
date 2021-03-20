@@ -4,7 +4,7 @@ coverage==3.5.1
 docutils==0.8.1
 ipython==0.12
 nose==1.1.2
-jinja2==2.6
+jinja2==2.11.3
 pep8==0.6.1
 pyflakes==0.5.0
 django-extensions==1.0.1
